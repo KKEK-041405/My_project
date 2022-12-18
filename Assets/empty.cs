@@ -14,7 +14,7 @@ public class empty : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("yes");
         Debug.Log(Screen.height+","+ Screen.width);
     }
 }
